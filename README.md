@@ -4,7 +4,7 @@ Coming soon
 ## Current Projects
 ![Yggdrasil](https://github.com/MisterSilvereagle/Yggdrasil)\
 Imitate Mojang's Yggdrasil or actually the whole Minecraft web-server-cluster, e.g. authserver.mojang.com, sessionserver.mojang.com, textures.minecraft.net.\
-Just to not have to migrate to a dumb Microstupid (Similarities with real brand names are accidental) account.\
+Just to not have to migrate to a dumb Microstupid (Similarities with real brand names are accidental) account.
 ## Stuff I'm using
 A lot. Links coming soon
 ## Games I play
